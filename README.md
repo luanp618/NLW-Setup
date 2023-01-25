@@ -36,6 +36,8 @@ Esse projeto foi desenvolido com as seguintes tecnologias:
 
 O Projeto Habits e um App para registrar os Habitos
 
+- [Visite o projeto online](https://luanp618.github.io/NLW-Setup/)
+
 ## :memo: Licença
 
 Esse projetoesta sob a licença MIT.
